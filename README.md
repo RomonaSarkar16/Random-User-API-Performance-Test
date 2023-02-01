@@ -1,14 +1,24 @@
 # Random-User-API-Performance-Test
 
+##<b>To perform we used url :<b> https://random-data-api.com/api/v2/users
+  
+  ##<b>Scenario: Find out the actual TPS for if 120000 user can give load for 12 hour<b>
+  We have Breakdown the expected TPS in excel sheet and found out the actual TPS for this scenario.
+
+
 ##<b>Tools been used :<b><br>
   Jmeter <br>
   Excel <br>
   
 ##<b>Some Screenshots During Load Testing :<b>
 ![Ass3 1](https://user-images.githubusercontent.com/85759553/216119817-62707746-fe9a-4d3d-ad92-aa7a4a98783c.PNG)
-![Ass3 2](http![ass3 3](https://user-images.githubusercontent.com/85759553/216119812-45c26deb-e1c4-4589-8079-f8e03e37841e.PNG)
-s://user-images.githubusercontent.com/85759553/216119798-33e8a43d-f3c4-4f72-9bfa-159a0032f883.PNG)
-![ass3 4](https://user-images.githubusercontent.com/85759553/216119835-9a139da8-7788-48b5-8306-600f923a0889.PNG)
+  ![Ass3 2](https://user-images.githubusercontent.com/85759553/216121362-67a84ad5-4f69-4e57-a1c5-1e291db0e25c.PNG)
+![ass3 3](https://user-images.githubusercontent.com/85759553/216121388-af9766fd-c103-492e-a48a-f1cf1d5fea10.PNG)
+
+![ass3 4](https://user-images.githubusercontent.com/85759553/216121411-9bcaeb7f-ac8f-4825-ae29-84d003c93b8f.PNG)
+![ass3 5](https://user-images.githubusercontent.com/85759553/216121438-b386f8ae-8b0c-4b3e-b8f6-43fcf1733f2f.PNG)
+![ass3 6 stress](https://user-images.githubusercontent.com/85759553/216121475-e7f829c5-a18e-4aa8-9157-944ff1a90af7.PNG)
+
 
 ##<b>Some Screenshots During Stress Testing :<b>
 ![ass3 6 stress](https://user-images.githubusercontent.com/85759553/216120115-085dd533-58ae-430f-a53f-7a118cab1de4.PNG)
